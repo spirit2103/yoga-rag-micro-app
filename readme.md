@@ -63,6 +63,7 @@ Answer + Sources
 ---
 
 ## 📂 Project Structure
+```bash
 yoga-rag-micro-app/
 ├── backend/
 │ ├── rag/
@@ -80,7 +81,7 @@ yoga-rag-micro-app/
 ├── frontend/
 │ └── src/
 └── README.md
-
+```
 
 ---
 
